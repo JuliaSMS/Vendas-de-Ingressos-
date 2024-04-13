@@ -1,0 +1,2 @@
+Nome: Julia, Idade: 18, Preco: 10.00, Pagamento: debito, Numero do Ingresso: 3904
+Nome: Julia, Idade: 50, Preco: 0.00, Pagamento: Isento, Numero do Ingresso: 8241
